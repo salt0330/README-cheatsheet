@@ -2,11 +2,11 @@
 ##  Willy Wangky’s World  
  
 #  Kelompok 3 Kelas 3
-Hizkia Raditya Pratama Roosadi / 13519087 
-Haikal Lazuardi Fadil / 13519027 
-Ramadhana Bhanuharya Wishnumurti / 13519203 
-Juan Louis Rombetasik / 13519075 
-Aria Bachlul Ulum Berlian / 13519115 
+1. Hizkia Raditya Pratama Roosadi / 13519087 
+2. Haikal Lazuardi Fadil / 13519027 
+3. Ramadhana Bhanuharya Wishnumurti / 13519203 
+4. Juan Louis Rombetasik / 13519075 
+5. Aria Bachlul Ulum Berlian / 13519115 
 
  
 
