@@ -1,8 +1,7 @@
-#  Tugas Besar Algoritma dan Struktur Data IF2110
+##  Tugas Besar Algoritma dan Struktur Data IF2110
 #  Willy Wangky’s World  
-
-Dipersiapkan oleh: 
-#  Kelompok 3 
+ 
+#  Kelompok 3 Kelas 3
 Hizkia Raditya Pratama Roosadi / 13519087 
 Haikal Lazuardi Fadil / 13519027 
 Ramadhana Bhanuharya Wishnumurti / 13519203 
